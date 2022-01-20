@@ -18,7 +18,7 @@ You need to have [node](https://nodejs.org/en/) and [npm](https://nodejs.org/en/
 ## Getting Started & Usage
 
 - `git clone https://github.com/microsoft/S-C-APIs`
-- ` Create folder API code <any-sample-folder>`
+- ` Create folder for API code <any-sample-folder>`
 - `Follow the instructions in each sample's README for setting up and running the sample
 
 ## Samples
