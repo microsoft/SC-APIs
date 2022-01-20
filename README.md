@@ -1,8 +1,8 @@
 <h1 align="center">
-Security, Risk and Compliance API Samples
+ Compliance, Risk, and Privacy API Samples
 </h1>
 
-This repository contains sample code illustrating SCI APIs. Each sample is a self-contained extension that explains multiple topics topics in [MIP SDK](https://docs.microsoft.com/en-us/samples/browse/?terms=mip%20sdk) or [Privacy API](). You can read, play with or adapt from these samples to create your own extensions.
+This repository contains sample code illustrating Compliance, Risk, and Privacy APIs. Each sample is a self-contained extension that explains multiple topics topics in [MIP SDK](https://docs.microsoft.com/en-us/samples/browse/?terms=mip%20sdk) or [Privacy API](). You can read, play with or adapt from these samples to create your own extensions.
 
 You can expect from each sample:
 - An explanation of its functionality
