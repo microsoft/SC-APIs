@@ -21,10 +21,10 @@ You need to have [node](https://nodejs.org/en/) and [npm](https://nodejs.org/en/
 - ` Create folder for API code <any-sample-folder>`
 - `Follow the instructions in each sample's README for setting up and running the sample
 
-## Samples
+## MIP SDK Samples
 
 <!-- SAMPLES_BEGIN -->
-| Sample | Guide on SCI Website | API & Contribution |
+| Sample | Guide on MPI Website | API & Contribution |
 | ------ | ----- | --- |
 | [Webview Sample](https://github.com/Microsoft/vscode-extension-samples/tree/main/webview-sample) | [/api/extension-guides/webview](https://code.visualstudio.com/api/extension-guides/webview) | [window.createWebviewPanel](https://code.visualstudio.com/api/references/vscode-api#window.createWebviewPanel)<br>[window.registerWebviewPanelSerializer](https://code.visualstudio.com/api/references/vscode-api#window.registerWebviewPanelSerializer) |
 | [Webview View Sample](https://github.com/Microsoft/vscode-extension-samples/tree/main/webview-view-sample) | N/A | [window.registerWebviewViewProvider](https://code.visualstudio.com/api/references/vscode-api#window.registerWebviewViewProvider) |
@@ -53,10 +53,10 @@ You need to have [node](https://nodejs.org/en/) and [npm](https://nodejs.org/en/
 | [Semantic tokens](https://github.com/Microsoft/vscode-extension-samples/tree/main/semantic-tokens-sample) | [/api/language-extensions/semantic-highlight-guide](https://code.visualstudio.com/api/language-extensions/semantic-highlight-guide) | [languages.registerDocumentSemanticTokensProvider](https://code.visualstudio.com/api/references/vscode-api#languages.registerDocumentSemanticTokensProvider)<br>[vscode.DocumentSemanticTokensProvider](https://code.visualstudio.com/api/references/vscode-api#vscode.DocumentSemanticTokensProvider) |
 <!-- SAMPLES_END -->
 
-### Language Server Protocol Samples
+### Privacy API Samples
 
-<!-- LSP_SAMPLES_BEGIN -->
-| Sample | Guide on VS Code Website | API & Contribution |
+<!-- Privacy_SAMPLES_BEGIN -->
+| Sample | Guide on Privacy API Website | API & Contribution |
 | ------ | ----- | --- |
 | [Snippet Sample](https://github.com/Microsoft/vscode-extension-samples/tree/main/snippet-sample) | [/api/language-extensions/snippet-guide](https://code.visualstudio.com/api/language-extensions/snippet-guide) | [contributes.snippets](https://code.visualstudio.com/api/references/contribution-points#contributes.snippets) |
 | [Language Configuration Sample](https://github.com/Microsoft/vscode-extension-samples/tree/main/language-configuration-sample) | [/api/language-extensions/language-configuration-guide](https://code.visualstudio.com/api/language-extensions/language-configuration-guide) | [contributes.languages](https://code.visualstudio.com/api/references/contribution-points#contributes.languages) |
