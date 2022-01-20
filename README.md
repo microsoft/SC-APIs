@@ -9,7 +9,6 @@ You can expect from each sample:
 - A gif or screenshot demonstrating its usage
 - Link to a guide on each SCI website, if it has one
 - Listing of used Code API and Contribution Points
-- Code of the same style, enforced using ESLint
 
 ## Prerequisites
 
