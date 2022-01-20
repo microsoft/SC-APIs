@@ -25,19 +25,15 @@ You need to have [node](https://nodejs.org/en/) and [npm](https://nodejs.org/en/
 <!-- SAMPLES_BEGIN -->
 | Sample | Guide on MPI Website | API & Contribution |
 | ------ | ----- | --- |
-| [Sample](Github Link Goes Here) | [/api/extension-guides/webview](Guide on API Website Goes Here) | [API on Website](Link to Website API)<br>
+| [Sample](Github Link Goes Here) | [API Guide](Guide on API Website Goes Here) | [API on Website](Link to Website API)<br>
 
 ### Privacy API Samples
 
 <!-- Privacy_SAMPLES_BEGIN -->
 | Sample | Guide on Privacy API Website | API & Contribution |
 | ------ | ----- | --- |
-| [Snippet Sample](https://github.com/Microsoft/vscode-extension-samples/tree/main/snippet-sample) | [/api/language-extensions/snippet-guide](https://code.visualstudio.com/api/language-extensions/snippet-guide) | [contributes.snippets](https://code.visualstudio.com/api/references/contribution-points#contributes.snippets) |
-| [Language Configuration Sample](https://github.com/Microsoft/vscode-extension-samples/tree/main/language-configuration-sample) | [/api/language-extensions/language-configuration-guide](https://code.visualstudio.com/api/language-extensions/language-configuration-guide) | [contributes.languages](https://code.visualstudio.com/api/references/contribution-points#contributes.languages) |
-| [LSP Sample](https://github.com/Microsoft/vscode-extension-samples/tree/main/lsp-sample) | [/api/language-extensions/language-server-extension-guide](https://code.visualstudio.com/api/language-extensions/language-server-extension-guide) |  |
-| [LSP Log Streaming Sample](https://github.com/Microsoft/vscode-extension-samples/tree/main/lsp-log-streaming-sample) | N/A |  |
-| [LSP Multi Root Server Sample](https://github.com/Microsoft/vscode-extension-samples/tree/main/lsp-multi-server-sample) | https://github.com/Microsoft/vscode/wiki/Extension-Authoring:-Adopting-Multi-Root-Workspace-APIs#language-client--language-server |  |
-<!-- LSP_SAMPLES_END -->
+ [Sample](Github Link Goes Here) | [API Guide](Guide on API Website Goes Here) | [API on Website](Link to Website API)<br>
+
 
 ## License
 
