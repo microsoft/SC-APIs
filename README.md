@@ -15,24 +15,16 @@ You can expect from each sample:
 
 You need to have [node](https://nodejs.org/en/) and [npm](https://nodejs.org/en/) installed on your system to run the examples. It is recommended to use the node version used for VS Code development itself which is documented [here](https://github.com/Microsoft/vscode/wiki/How-to-Contribute#prerequisites)
 
-## Usage
+## Getting Started & Usage
 
-- `git clone https://github.com/Microsoft/vscode-extension-samples`
-- `code <any-sample-folder>`
-- `npm install` in the terminal, then `F5` to run the sample
-- Alternatively, follow the instructions in each sample's README for setting up and running the sample
-
-## Getting Started
-
-- [Hello World Sample](helloworld-sample): The Hello World sample for VS Code. See [Extension Anatomy](https://code.visualstudio.com/api/get-started/extension-anatomy) documentation.
-- [Hello World Minimal Sample](helloworld-minimal-sample): A minimal version of Hello World Sample written in JavaScript.
-- [Hello World Test Sample](helloworld-test-sample): Hello World sample with extension integration test. See [Testing Extensions](https://code.visualstudio.com/api/working-with-extensions/testing-extension) documentation.
-- [Hello World Web Sample](helloworld-web-sample): The Hello World sample for VS Code Web. See the [Web Extensions](https://code.visualstudio.com/api/extension-guides/web-extensions) guide.
+- `git clone https://github.com/microsoft/S-C-APIs`
+- ` Create folder API code <any-sample-folder>`
+- `Follow the instructions in each sample's README for setting up and running the sample
 
 ## Samples
 
 <!-- SAMPLES_BEGIN -->
-| Sample | Guide on VS Code Website | API & Contribution |
+| Sample | Guide on SCI Website | API & Contribution |
 | ------ | ----- | --- |
 | [Webview Sample](https://github.com/Microsoft/vscode-extension-samples/tree/main/webview-sample) | [/api/extension-guides/webview](https://code.visualstudio.com/api/extension-guides/webview) | [window.createWebviewPanel](https://code.visualstudio.com/api/references/vscode-api#window.createWebviewPanel)<br>[window.registerWebviewPanelSerializer](https://code.visualstudio.com/api/references/vscode-api#window.registerWebviewPanelSerializer) |
 | [Webview View Sample](https://github.com/Microsoft/vscode-extension-samples/tree/main/webview-view-sample) | N/A | [window.registerWebviewViewProvider](https://code.visualstudio.com/api/references/vscode-api#window.registerWebviewViewProvider) |
